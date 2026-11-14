@@ -1,0 +1,23 @@
+[
+  {
+    "type": "starred",
+    "name": "torvalds/linux",
+    "description": "Linux kernel source tree",
+    "url": "https://github.com/torvalds/linux",
+    "starred_at": "2024-01-15"
+  },
+  {
+    "type": "starred",
+    "name": "ohmyzsh/ohmyzsh",
+    "description": "A framework for managing your zsh configuration",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "starred_at": "2024-02-20"
+  },
+  {
+    "type": "starred",
+    "name": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists",
+    "url": "https://github.com/sindresorhus/awesome",
+    "starred_at": "2024-03-08"
+  }
+]
